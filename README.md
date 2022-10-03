@@ -1,2 +1,2 @@
-# Computer-Vision-I
+# Computer-Vision-II
 Image processing using Numpy
